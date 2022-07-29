@@ -24,5 +24,5 @@ changeImg = function() {
 }
 
 setInterval(changeImg, 2000)
-
+ 
 
